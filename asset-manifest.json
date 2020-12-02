@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Siddhya007/tracker.git/static/css/main.2d1d361c.chunk.css",
+    "main.js": "/Siddhya007/tracker.git/static/js/main.05454191.chunk.js",
+    "main.js.map": "/Siddhya007/tracker.git/static/js/main.05454191.chunk.js.map",
+    "runtime-main.js": "/Siddhya007/tracker.git/static/js/runtime-main.26f59fad.js",
+    "runtime-main.js.map": "/Siddhya007/tracker.git/static/js/runtime-main.26f59fad.js.map",
+    "static/js/2.b0975c60.chunk.js": "/Siddhya007/tracker.git/static/js/2.b0975c60.chunk.js",
+    "static/js/2.b0975c60.chunk.js.map": "/Siddhya007/tracker.git/static/js/2.b0975c60.chunk.js.map",
+    "index.html": "/Siddhya007/tracker.git/index.html",
+    "precache-manifest.1a0d2196dd7a2bd90b4435da6eb1835b.js": "/Siddhya007/tracker.git/precache-manifest.1a0d2196dd7a2bd90b4435da6eb1835b.js",
+    "service-worker.js": "/Siddhya007/tracker.git/service-worker.js",
+    "static/css/main.2d1d361c.chunk.css.map": "/Siddhya007/tracker.git/static/css/main.2d1d361c.chunk.css.map",
+    "static/js/2.b0975c60.chunk.js.LICENSE.txt": "/Siddhya007/tracker.git/static/js/2.b0975c60.chunk.js.LICENSE.txt",
+    "static/media/image.png": "/Siddhya007/tracker.git/static/media/image.b33d4fb6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.26f59fad.js",
+    "static/js/2.b0975c60.chunk.js",
+    "static/css/main.2d1d361c.chunk.css",
+    "static/js/main.05454191.chunk.js"
+  ]
+}
